@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeworkThemes</string>
+    <string name="_0">0</string>
+    <string name="increment">Add one to the number</string>
+    <string name="start_new_activity">Switching to a new activity</string>
+    <string name="value">Current counter value:</string>
+</resources>
